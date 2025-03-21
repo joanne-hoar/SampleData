@@ -1,0 +1,90 @@
+[
+  {
+    "Employee Number": 3,
+    "Employee Name": "Cherri Greenway",
+    "Employee Title": "VP Sales",
+    "Start Date": "Mar. 15 2015",
+    "Salary": "$165,000.00",
+    "Reports to": 4
+  },
+  {
+    "Employee Number": 4,
+    "Employee Name": "James McCainn",
+    "Employee Title": "CEO",
+    "Start Date": "Jun. 11 2015",
+    "Salary": "$195,000.00",
+    "Reports to": ""
+  },
+  {
+    "Employee Number": 5,
+    "Employee Name": "Omolara Mouton",
+    "Employee Title": "Director Sales",
+    "Start Date": "Oct. 1 2015",
+    "Salary": "$120,000.00",
+    "Reports to": 3
+  },
+  {
+    "Employee Number": 8,
+    "Employee Name": "Victoria Burra-Venkata",
+    "Employee Title": "Chief Operating Officer",
+    "Start Date": "May 28 2016",
+    "Salary": "$175,000.00",
+    "Reports to": 4
+  },
+  {
+    "Employee Number": 9,
+    "Employee Name": "Sophie Alkurd",
+    "Employee Title": "VP Human Resources",
+    "Start Date": "Jul. 10 2016",
+    "Salary": "$145,000.00",
+    "Reports to": 4
+  },
+  {
+    "Employee Number": 12,
+    "Employee Name": "Ronald Chababi",
+    "Employee Title": "Director of Data Analytics",
+    "Start Date": "Nov. 22 2016",
+    "Salary": "$105,000.00",
+    "Reports to": 8
+  },
+  {
+    "Employee Number": 13,
+    "Employee Name": "Russell Mouton",
+    "Employee Title": "Data Analyst",
+    "Start Date": "Dec. 25 2016",
+    "Salary": "$73,000.00",
+    "Reports to": 12
+  },
+  {
+    "Employee Number": 15,
+    "Employee Name": "Mike Chambers",
+    "Employee Title": "Data Analyst",
+    "Start Date": "May 22 2017",
+    "Salary": "$62,000.00",
+    "Reports to": 12
+  },
+  {
+    "Employee Number": 17,
+    "Employee Name": "Justin James",
+    "Employee Title": "Director Sales",
+    "Start Date": "Nov. 20 2017",
+    "Salary": "$108,000.00",
+    "Reports to": 3
+  },
+  {
+    "Employee Number": 18,
+    "Employee Name": "Getsey Molat",
+    "Employee Title": "Business Development Representative",
+    "Start Date": "Dec. 28 2017",
+    "Salary": "$52,000.00",
+    "Reports to": 5
+  },
+  {
+    "Employee Number": 19,
+    "Employee Name": "Ramzy Hanson",
+    "Employee Title": "Business Development Representative",
+    "Start Date": "Apr. 3 2018",
+    "Salary": "$52,000.00",
+    "Reports to": 17
+  }
+]
